@@ -2,6 +2,7 @@
 ## Commands for running
 ### 1.clone this repository into some folder.
 ### 2.open terminal and navigate to catkin_ws folder using "cd" command
+      cd catkin_ws
 ### 3.u have to enter everytime u enter catkin_ws folder using new terminal
       source ~/PATH_TO_FOLDER_U_STORED_CATKIN_WS/catkin_ws/devel/setup.bash 
 #### otherwise u can directly add this command to ~/.bashrc so that no need to enter it again and again
