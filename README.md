@@ -1,6 +1,7 @@
 # Stride_assignment
 ## Commands for running
-### 1.clone this repository into some folder.
+### 1.clone this repository into some folder using the below command.
+      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ### 2.open terminal and navigate to catkin_ws folder using "cd" command
       cd catkin_ws
 ### 3.u have to enter everytime u enter catkin_ws folder using new terminal
