@@ -7,9 +7,9 @@
     otherwise u can directly add this command to ~/.bashrc so that no need to enter it again and again
     echo "source ~/PATH_TO_FOLDER_U_STORED_CATKIN_WS/catkin_ws/devel/setup.bash" >> ~/.bashrc
 ### 4.now open 1st terminal and navigate to catkin_ws using cd commands(ros master runs)
-     '''  cd catkin_ws
+     cd catkin_ws
      catkin_make
-     roscore  '''
+     roscore 
 ### 5.similarily 2nd terminal(simulate gazebo with empty world)
      cd catkin_ws
      rosrun gazebo_ros gazebo
