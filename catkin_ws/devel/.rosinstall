@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/santhosh/stride_assignment/catkin_ws/devel/setup.sh
